@@ -1,0 +1,22 @@
+{
+  "name": "is-string-url",
+  "version": "1.0.0",
+  "description": "checks if a string is a url",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DerpyOreo/is-string-url.git"
+  },
+  "keywords": [
+    "url"
+  ],
+  "author": "DerpyOreo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DerpyOreo/is-string-url/issues"
+  },
+  "homepage": "https://github.com/DerpyOreo/is-string-url#readme"
+}
