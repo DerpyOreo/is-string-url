@@ -1,6 +1,6 @@
 {
   "name": "is-string-url",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "checks if a string is a url",
   "main": "index.js",
   "scripts": {
